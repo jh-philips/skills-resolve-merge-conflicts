@@ -1,1 +1,3 @@
-This is conflicting text, a sentence.
+# References
+
+* octocat 1 😈
